@@ -25,13 +25,15 @@
 
 ## 界面截图
 ### 任务一：首个应用运行截图
-![任务一截图](screenshots/task1.jpg)
+<img width="1170" height="692" alt="image" src="https://github.com/user-attachments/assets/b7fa4b29-0533-4ef1-8add-cf79b1296caa" />
 
 ### 任务二：Compose 基础布局截图
-![任务二截图](screenshots/task2.jpg)
+<img width="1034" height="604" alt="image" src="https://github.com/user-attachments/assets/8aa5013b-c8fe-4db9-ac97-cd55a231aec7" />
+
 
 ### 任务三：AI 应用完整界面截图
-![任务三截图](screenshots/task3.jpg)
+<img width="1159" height="692" alt="image" src="https://github.com/user-attachments/assets/b23809af-df82-4f18-af3c-d8912b745599" />
+
 
 ## 主要代码结构
 - `MainActivity.kt`：包含三个 Composable 函数（GreetingScreen、AiCameraScreen）。
