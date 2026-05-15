@@ -257,6 +257,7 @@ git clone https://github.com/你的用户名/CameraXApp.git
 测试拍照、录像、亮度分析功能。
 
 截图位置
+<img width="592" height="548" alt="image" src="https://github.com/user-attachments/assets/01c8d1db-17fe-4153-950e-cb228aa06b6a" />
 
 
 
