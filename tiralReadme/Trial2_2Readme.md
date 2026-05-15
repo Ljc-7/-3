@@ -15,7 +15,7 @@
 ## 运行环境
 - Android SDK：API 21 及以上
 - 编译工具：Gradle 8.0+
-- 测试设备：模拟器 Pixel 4 API 30 或真机 Android 10+
+- 测试设备：模拟器 Pixel 4 API 30 
 
 ## 如何运行
 1. 使用 Android Studio 打开本项目。
@@ -49,4 +49,4 @@
 - [Jetpack Compose 官方文档](https://developer.android.com/jetpack/compose)
 
 ## 仓库地址
-[GitHub链接](https://github.com/你的用户名/仓库名)
+[GitHub链接](https://github.com/Ljc-7/-3)
