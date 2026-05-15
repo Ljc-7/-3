@@ -2,8 +2,8 @@
 
 实验信息
 课程：Android 开发 / Kotlin 编程
-学生姓名：（填写你的姓名）
-学号：（填写你的学号）
+学生姓名：林觉川
+学号：121052023015
 实验日期：2026年5月15日
 
 项目简介
@@ -257,15 +257,9 @@ git clone https://github.com/你的用户名/CameraXApp.git
 
 测试拍照、录像、亮度分析功能。
 
-截图位置（请自行添加）
+截图位置
 
-主界面截图：screenshots/main.jpg
 
-拍照成功截图：screenshots/capture.jpg
-
-录像状态截图：screenshots/recording.jpg
-
-亮度分析截图：screenshots/analysis.jpg
 
 代码结构
 MainActivity.kt # 绑定用例、按钮事件
