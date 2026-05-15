@@ -33,8 +33,7 @@ CameraX 1.5.0-alpha06
 dependencies {
 def camerax_version = "1.5.0-alpha06"
 implementation "androidx.camera:camera-core:
-c
-a
+ca
 m
 e
 r
